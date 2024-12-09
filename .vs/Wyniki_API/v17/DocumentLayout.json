@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Praktyki\\apl_api\\Wyniki_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|f:\\praktyki\\apl_api\\wyniki_api\\wyniki_api\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|solutionrelative:wyniki_api\\controllers\\matchescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|f:\\praktyki\\apl_api\\wyniki_api\\wyniki_api\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|solutionrelative:wyniki_api\\controllers\\teamscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|f:\\praktyki\\apl_api\\wyniki_api\\wyniki_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|solutionrelative:wyniki_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|f:\\praktyki\\apl_api\\wyniki_api\\wyniki_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|solutionrelative:wyniki_api\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|f:\\praktyki\\apl_api\\wyniki_api\\wyniki_api\\entities\\wynikidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|solutionrelative:wyniki_api\\entities\\wynikidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|f:\\praktyki\\apl_api\\wyniki_api\\wyniki_api\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E15D9717-DA23-4FF2-ADD8-4DBD6707186A}|Wyniki_API\\Wyniki_API.csproj|solutionrelative:wyniki_api\\entities\\match.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeamsController.cs",
+              "DocumentMoniker": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Controllers\\TeamsController.cs",
+              "RelativeDocumentMoniker": "Wyniki_API\\Controllers\\TeamsController.cs",
+              "ToolTip": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Controllers\\TeamsController.cs",
+              "RelativeToolTip": "Wyniki_API\\Controllers\\TeamsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:01:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatchesController.cs",
+              "DocumentMoniker": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Controllers\\MatchesController.cs",
+              "RelativeDocumentMoniker": "Wyniki_API\\Controllers\\MatchesController.cs",
+              "ToolTip": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Controllers\\MatchesController.cs",
+              "RelativeToolTip": "Wyniki_API\\Controllers\\MatchesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwEEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:01:26.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Startup.cs",
+              "RelativeDocumentMoniker": "Wyniki_API\\Startup.cs",
+              "ToolTip": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Startup.cs",
+              "RelativeToolTip": "Wyniki_API\\Startup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:01:09.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Program.cs",
+              "RelativeDocumentMoniker": "Wyniki_API\\Program.cs",
+              "ToolTip": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Program.cs",
+              "RelativeToolTip": "Wyniki_API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:01:05.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WynikiDbContext.cs",
+              "DocumentMoniker": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Entities\\WynikiDbContext.cs",
+              "RelativeDocumentMoniker": "Wyniki_API\\Entities\\WynikiDbContext.cs",
+              "ToolTip": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Entities\\WynikiDbContext.cs",
+              "RelativeToolTip": "Wyniki_API\\Entities\\WynikiDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:00:46.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Match.cs",
+              "DocumentMoniker": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Entities\\Match.cs",
+              "RelativeDocumentMoniker": "Wyniki_API\\Entities\\Match.cs",
+              "ToolTip": "F:\\Praktyki\\apl_api\\Wyniki_API\\Wyniki_API\\Entities\\Match.cs",
+              "RelativeToolTip": "Wyniki_API\\Entities\\Match.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T10:00:36.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
